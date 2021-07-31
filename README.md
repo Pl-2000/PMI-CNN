@@ -15,10 +15,10 @@ We propose a parallel multi-input mechanism-based CNN (PMI-CNN) which makes full
 Deep learning framework: Tensorflow2.5.0
 
 ### Code configuration
-1.Model.py is the main program.  
-2.HSI_Prepare.py is a data preprocessing program that divides the dataset by percentage.  
-3.Hisprepare_2.py is also a data preprocessing program, which can divide the dataset according to a certain number of each class.  
-4.helper.py and process.py are custom tool libraries.  
+1. Model.py is the main program.  
+2. HSI_Prepare.py is a data preprocessing program that divides the dataset by percentage.  
+3. Hisprepare_2.py is also a data preprocessing program, which can divide the dataset according to a certain number of each class.  
+4. helper.py and process.py are custom tool libraries.  
 
 ## Dataset
 Three publicly available HSI datasets are used to evaluate the model's performance: Indian Pines dataset (IP), Pavia University Dataset (PU) and Salinas Scene Dataset (SA).
